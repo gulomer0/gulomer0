@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👨‍💻 Some of my projects are available at [https://play.google.com/store/apps/developer?id=%C3%96mer+G%C3%BCl&gl=TR](https://play.google.com/store/apps/developer?id=%C3%96mer+G%C3%BCl&gl=TR)
+- 👨‍💻 Some of my projects are available at [https://play.google.com/store/apps/developer?id=%C3%96mer+G%C3%BCl&gl=TR](https://play.google.com/store/apps/developer?id=%C3%96mer+G%C3%BCl&gl=TR) | [https://gulomer0.github.io/#/] (https://gulomer0.github.io/#/)
 
 - 📫 How to reach me **gul.omer1997@gmail.com**
 
